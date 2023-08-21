@@ -1,4 +1,11 @@
 <div align="center">
+  <p>Greetings everyone! I am a programmer with a focus on the Swift language. My passion for programming began in high school, and since then, I have been continuously deepening my knowledge and skills in this field.
+
+I have experience working with Git, GitHub, and Xcode, which allows me to easily manage projects and develop high-quality software. I am always open to new opportunities and ready to learn new technologies.
+
+I believe that teamwork is a crucial factor in programming. I am willing to collaborate with people who have different skills and experience to achieve a common goal.
+
+I am always open to new connections and opportunities, and I would be glad to connect with you. Thank you for your attention!</p>
   <img src="https://github-readme-stats.vercel.app/api?username=vmaksymovk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vmaksymovk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
